@@ -1,0 +1,194 @@
+.hero{
+    background-image: linear-gradient(to right, rgb(255, 255, 255), #cecece1c) ,url(../img/pexels-ella-olsson-1640777.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav a{
+    text-decoration: none;
+    color: grey;
+}
+.top{
+    margin-top: 5.5rem;
+}
+.orange{
+    background-color: rgb(255, 98, 50);
+    box-shadow: 0px 4px 4px 1.5px rgba(255, 51, 0, 0.377);
+    color: whitesmoke;
+    font-weight: 700;
+}
+.activate{
+    color: rgb(60, 122, 173) !important;
+}
+.oranger{
+    text-shadow: rgba(255, 51, 0, 0.644) 2px 9px 17px;
+    color: rgb(255, 98, 50);
+}
+.img1{
+    background-image: url(../img/pexels-snapwire-286283.jpg);
+    /* height: 30rem; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 3px 3px 10px 8px rgba(150, 150, 150, 0.342);
+    border-top-left-radius: 3.5rem;
+    border-bottom-right-radius: 3.5rem;
+}
+.bit{
+    border: none;
+    background-color: rgb(255, 98, 50);
+    color: whitesmoke;
+    padding: 1rem;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    box-shadow: 0px 4px 4px 1.5px rgba(255, 51, 0, 0.377);
+}
+.sec{
+    color: rgb(138, 138, 138);
+}
+img{
+    border-radius: 5px;
+}
+.cont{
+    background-image: linear-gradient(to right, rgba(1, 9, 133, 0.397), rgba(0, 9, 134, 0.397)) ,url(../img/pexels-christel-jensen-628776.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 1rem;
+    text-align: center;
+    color: whitesmoke;
+}
+.spam{
+    margin-left: 6.5rem;
+}
+.noner{
+    border: none !important;
+    box-shadow: 0 4px 4px 7px rgba(92, 92, 92, 0.082);
+}
+.shade{
+    box-shadow: 0px 4px 4px 1.5px rgba(19, 19, 19, 0.5);
+    width: 50rem;
+    margin-top: 3rem !important;
+    border: none;
+    border-radius: 5px;
+}
+.max{
+    width: 30rem !important;
+}
+@media screen and (max-width: 600px){ 
+    .split{
+        font-size: 1rem;
+    }
+    .img1{
+        height: 110vh;
+    }
+    .plit{
+        padding: 2rem;
+    }
+    .cont{
+        font-size: 1.5rem;
+    }
+    .short{
+        font-size: 1.8rem;
+    }
+    .spam{
+        margin-left: 3.5rem;
+    }
+    .shade{
+        width: 20rem;
+        font-size: 10px;
+    }
+    .max{
+        width: 15rem !important;
+    }
+}
+.pic1{
+    background-image: url(../img/pexels-ella-olsson-1640777.jpg);
+    background-size: cover;
+    height: 40vh;
+}
+.shadow{
+    box-shadow: 0px 4px 4px 1.5px rgba(19, 19, 19, 0.5);
+    padding: 0 !important;
+    width: 90%;
+}
+.butn{
+    border: none;
+    background-color: rgb(255, 98, 50);
+    color: whitesmoke;
+    padding: 1rem;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    box-shadow: 0px 4px 4px 1.5px rgba(255, 51, 0, 0.377);
+}
+.pix2{
+    background-image: url(../img/pexels-julie-aagaard-2097090.jpg);
+    background-size: cover;
+    width: 2rem !important;
+    height: 40vh;
+    margin: 0.2rem;
+}
+.pix:hover{
+    box-shadow: 0px 4px 4px 1.5px rgba(255, 51, 0, 0.377);
+}
+/* .mad{
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+} */
+.warning{
+    background-color: rgb(255, 150, 111);
+}
+
+/* .overlay{
+    background-color: rgba(0, 0, 0, 0.37);
+    padding: 4.2rem;
+    font-size: 2rem;
+    font-weight: 800;
+    display: none;
+}
+.overlay a{
+    text-decoration: none;
+    color: orangered;
+}
+.overlay a:hover{
+    font-size: 1.5rem; */
+/* } */
+/* .play{
+    background-color: rgba(0, 0, 0, 0.37);
+    padding: 4.2rem;
+    font-size: 2rem;
+    font-weight: 800;
+    display: none;
+}
+.play a{
+    text-decoration: none;
+    color: orangered;
+}
+.Play a:hover{
+    font-size: 1.5rem;
+}
+.copy{
+    background-color: rgba(0, 0, 0, 0.37);
+    padding: 4.2rem;
+    font-size: 2rem;
+    font-weight: 800;
+    display: none;
+}
+.copy a{
+    text-decoration: none;
+    color: orangered;
+}
+.copy a:hover{
+    font-size: 1.5rem;
+}
+.paste{
+    background-color: rgba(0, 0, 0, 0.37);
+    padding: 4.2rem;
+    font-size: 2rem;
+    font-weight: 800;
+    display: none;
+}
+.paste a{
+    text-decoration: none;
+    color: orangered;
+}
+.paste a:hover{
+    font-size: 1.5rem;
+} */
